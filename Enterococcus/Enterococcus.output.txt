@@ -1,0 +1,52 @@
+
+---------------- Information for assembly 'Enterococcus_genome.fasta' ----------------
+
+
+                                         Number of scaffolds          2
+                                     Total size of scaffolds    2852834
+                                            Longest scaffold    2750966
+                                           Shortest scaffold     101868
+                                 Number of scaffolds > 1K nt          2 100.0%
+                                Number of scaffolds > 10K nt          2 100.0%
+                               Number of scaffolds > 100K nt          2 100.0%
+                                 Number of scaffolds > 1M nt          1  50.0%
+                                Number of scaffolds > 10M nt          0   0.0%
+                                          Mean scaffold size    1426417
+                                        Median scaffold size    2750966
+                                         N50 scaffold length    2750966
+                                          L50 scaffold count          1
+                                                 scaffold %A      31.51
+                                                 scaffold %C      18.61
+                                                 scaffold %G      18.83
+                                                 scaffold %T      31.04
+                                                 scaffold %N       0.00
+                                         scaffold %non-ACGTN       0.00
+                             Number of scaffold non-ACGTN nt          0
+
+                Percentage of assembly in scaffolded contigs       0.0%
+              Percentage of assembly in unscaffolded contigs     100.0%
+                      Average number of contigs per scaffold        1.0
+Average length of break (>25 Ns) between contigs in scaffold          0
+
+                                           Number of contigs          2
+                              Number of contigs in scaffolds          0
+                          Number of contigs not in scaffolds          2
+                                       Total size of contigs    2852834
+                                              Longest contig    2750966
+                                             Shortest contig     101868
+                                   Number of contigs > 1K nt          2 100.0%
+                                  Number of contigs > 10K nt          2 100.0%
+                                 Number of contigs > 100K nt          2 100.0%
+                                   Number of contigs > 1M nt          1  50.0%
+                                  Number of contigs > 10M nt          0   0.0%
+                                            Mean contig size    1426417
+                                          Median contig size    2750966
+                                           N50 contig length    2750966
+                                            L50 contig count          1
+                                                   contig %A      31.51
+                                                   contig %C      18.61
+                                                   contig %G      18.83
+                                                   contig %T      31.04
+                                                   contig %N       0.00
+                                           contig %non-ACGTN       0.00
+                               Number of contig non-ACGTN nt          0
