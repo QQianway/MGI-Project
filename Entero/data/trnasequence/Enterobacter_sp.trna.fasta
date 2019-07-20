@@ -1,0 +1,252 @@
+>"tRNA_type:Tyr-GTA" scf7180000000008|quiver _tRNA_84 undefined product 196776:196860 reverse
+ggtggggttcccgagcggccaaagggagcagactgtaaatctgccgtcatcgacttcgaa
+ggttcgaatccttcccccaccacca
+>"tRNA_type:Tyr-GTA" scf7180000000008|quiver _tRNA_83 undefined product 196896:196980 reverse
+ggtggggttcccgagcggccaaagggagcagactgtaaatctgccgtcatcgacttcgaa
+ggttcgaatccttcccccaccacca
+>"tRNA_type:Val-GAC" scf7180000000008|quiver _tRNA_1 undefined product 889426:889502 forward
+gcgttcatagctcagttggttagagcaccaccttgacatggtgggggtcgttggttcgag
+tccaattgaacgcacca
+>"tRNA_type:Val-GAC" scf7180000000008|quiver _tRNA_2 undefined product 889507:889583 forward
+gcgtccgtagctcagttggttagagcaccaccttgacatggtgggggtcggtggttcgag
+tccactcggacgcacca
+>"tRNA_type:Ser-GGA" scf7180000000008|quiver _tRNA_3 undefined product 1121809:1121896 forward
+ggtgaggtgtccgagtggctgaaggagcacgcctggaaagtgtgtatacggcaacgtatc
+gggggttcgaatccccccctcaccgcca
+>"tRNA_type:Ser-GGA" scf7180000000008|quiver _tRNA_4 undefined product 1124135:1124222 forward
+ggtgaggtgtccgagtggctgaaggagcacgcctggaaagtgtgtatacggcaacgtatc
+gggggttcgaatccccccctcaccgcca
+>"tRNA_type:Ser-TGA" scf7180000000008|quiver _tRNA_82 undefined product 1171816:1171903 reverse
+ggaagcgtggccgagcggttgaaggcaccggtcttgaaaaccggcgacccgaaagggttc
+tagagttcgaatctctacgcttccgcca
+>"tRNA_type:Ser-TGA" scf7180000000008|quiver _tRNA_81 undefined product 1177974:1178061 reverse
+ggaagtgtggccgagcggttgaaggcaccggtcttgaaaaccggcgacccgaaagggttc
+cagagttcgaatctctgcgcttccgcca
+>"tRNA_type:Lys-TTT" scf7180000000008|quiver _tRNA_80 undefined product 1461357:1461432 reverse
+gggtcgttagctcagttggtagagcagttgacttttaatcaattggtcgcaggttcgaat
+cctgcacgacccacca
+>"tRNA_type:Lys-TTT" scf7180000000008|quiver _tRNA_79 undefined product 1461464:1461539 reverse
+gggtcgttagctcagttggtagagcagttgacttttaatcaattggtcgcaggttcgaat
+cctgcacgacccacca
+>"tRNA_type:Lys-TTT" scf7180000000008|quiver _tRNA_78 undefined product 1461581:1461656 reverse
+gggtcgttagctcagttggtagagcagttgacttttaatcaattggtcgcaggttcgaat
+cctgcacgacccacca
+>"tRNA_type:Val-TAC" scf7180000000008|quiver _tRNA_77 undefined product 1461660:1461735 reverse
+gggtgattagctcagttggtagagcatctcctttacacggagggggtcggcggttcgagc
+ccgtcatcacccacca
+>"tRNA_type:Lys-TTT" scf7180000000008|quiver _tRNA_76 undefined product 1461763:1461838 reverse
+gggtcgttagctcagttggtagagcagttgacttttaatcaattggtcgcaggttcgaat
+cctgcacgacccacca
+>"tRNA_type:Met-CAT" scf7180000000008|quiver _tRNA_5 undefined product 1519406:1519482 forward
+ggctacgtagctcagttggttagagcacatcactcataatgatggggtcacaggttcgaa
+tcccgtcgtagccacca
+>"tRNA_type:Leu-TAG" scf7180000000008|quiver _tRNA_6 undefined product 1519492:1519576 forward
+gcgggagtggcgaaattggtagacgcaccagatttaggttctggcgccgcaaggtgtgcg
+agttcaagtctcgcctcccgcacca
+>"tRNA_type:Gln-TTG" scf7180000000008|quiver _tRNA_7 undefined product 1519600:1519674 forward
+tggggtatcgccaagcggtaaggcaccggtttttgataccggcattccctggttcgaatc
+caggtaccccagcca
+>"tRNA_type:Gln-TTG" scf7180000000008|quiver _tRNA_8 undefined product 1519707:1519781 forward
+tggggtatcgccaagcggtaaggcaccggtttttgataccggcattccctggttcgaatc
+caggtaccccagcca
+>"tRNA_type:Met-CAT" scf7180000000008|quiver _tRNA_9 undefined product 1519799:1519875 forward
+ggctacgtagctcagttggttagagcacatcactcataatgatggggtcacaggttcgaa
+tcccgtcgtagccacca
+>"tRNA_type:Gln-CTG" scf7180000000008|quiver _tRNA_10 undefined product 1519916:1519990 forward
+tggggtatcgccaagcggtaaggcaccggattctgattccggcattccgaggttcgaatc
+ctcgtaccccagcca
+>"tRNA_type:Gln-CTG" scf7180000000008|quiver _tRNA_11 undefined product 1520027:1520101 forward
+tggggtgtcgccaagcggtaaggctctggtttctgataccagcattccggggttcgaatc
+cctgcaccccagcca
+>"tRNA_type:Arg-TCT" scf7180000000008|quiver _tRNA_75 undefined product 1661554:1661630 reverse
+gcgcccttagctcagttggatagagcaacggccttctaagccgtaggtcgtaggttcgaa
+tcctacagggcgtgcca
+>"tRNA_type:Thr-CGT" scf7180000000008|quiver _tRNA_74 undefined product 1876827:1876902 reverse
+gccgatatagctcagttggtagagcagcgcattcgtaatgcgaaggtcgtaggttcgact
+cctattatcggcacca
+>"tRNA_type:Asp-GTC" scf7180000000008|quiver _tRNA_73 undefined product 1906315:1906391 reverse
+ggagcggtagttcagtcggttagaatacctgcctgtcacgcagggggtcgcgggttcgag
+tcccgtccgttccgcca
+>"tRNA_type:Asp-GTC" scf7180000000008|quiver _tRNA_72 undefined product 1915746:1915822 reverse
+ggagcggtagttcagtcggttagaatacctgcctgtcacgcagggggtcgcgggttcgag
+tcccgtccgttccgcca
+>"tRNA_type:Ala-TGC" scf7180000000008|quiver _tRNA_71 undefined product 1919142:1919217 reverse
+ggggctatagctcagctgggagagcgcctgctttgcacgcaggaggtctgcggttcgatc
+ccgcatagctccacca
+>"tRNA_type:Ile-GAT" scf7180000000008|quiver _tRNA_70 undefined product 1919261:1919337 reverse
+aggcttgtagctcaggtggttagagcgcacccctgataagggtgaggtcggtggttcaag
+tccactcaggcctacca
+>"tRNA_type:Leu-CAG" scf7180000000008|quiver _tRNA_12 undefined product 2150412:2150498 forward
+gcgaaggtggcggaattggtagacgcgctagcttcaggtgttagtgtccttacggatgtg
+ggggttcgagtcccccccctcgcacca
+>"tRNA_type:Leu-CAG" scf7180000000008|quiver _tRNA_13 undefined product 2150527:2150613 forward
+gcgaaggtggcggaattggtagacgcgctagcttcaggtgttagtgtccttacggatgtg
+ggggttcgagtcccccccctcgcacca
+>"tRNA_type:Leu-CAG" scf7180000000008|quiver _tRNA_14 undefined product 2150647:2150732 forward
+gcgaaggtggcggaattggtagacgcgctagcttcaggtgttagtgtccttaggatgtgg
+gggttcgagtcccccccctcgcacca
+>"tRNA_type:Leu-CAA" scf7180000000008|quiver _tRNA_69 undefined product 2268583:2268667 reverse
+gccgaagtggcgaaatcggtagacgcagttgattcaaaatcaaccgtagaaatacgtgcc
+ggttcgagtccggccttcggcacca
+>"tRNA_type:Gly-GCC" scf7180000000008|quiver _tRNA_68 undefined product 2374900:2374975 reverse
+gcgggaatagctcagttggtagagcacgaccttgccaaggtcggggtcgcgagttcgagt
+ctcgtttcccgctcca
+>"tRNA_type:Gly-GCC" scf7180000000008|quiver _tRNA_67 undefined product 2375012:2375087 reverse
+gcgggaatagctcagttggtagagcacgaccttgccaaggtcggggtcgcgagttcgagt
+ctcgtttcccgctcca
+>"tRNA_type:Gly-GCC" scf7180000000008|quiver _tRNA_66 undefined product 2375124:2375199 reverse
+gcgggaatagctcagttggtagagcacgaccttgccaaggtcggggtcgcgagttcgagt
+ctcgtttcccgctcca
+>"tRNA_type:Phe-GAA" scf7180000000008|quiver _tRNA_15 undefined product 2404224:2404299 forward
+gcccggatagctcagtcggtagagcaggggattgaaaatccccgtgtccttggttcgatt
+ccgagtccgggcacca
+>"tRNA_type:Ala-TGC" scf7180000000008|quiver _tRNA_65 undefined product 2407796:2407871 reverse
+ggggctatagctcagctgggagagcgcctgctttgcacgcaggaggtctgcggttcgatc
+ccgcatagctccacca
+>"tRNA_type:Ile-GAT" scf7180000000008|quiver _tRNA_64 undefined product 2407915:2407991 reverse
+aggcttgtagctcaggtggttagagcgcacccctgataagggtgaggtcggtggttcaag
+tccactcaggcctacca
+>"tRNA_type:Glu-TTC" scf7180000000008|quiver _tRNA_63 undefined product 2549539:2549614 reverse
+gtccccttcgtctagaggcccaggacaccgccctttcacggcggtaacaggggttcgaat
+cccctaggggacgcca
+>"tRNA_type:Thr-GGT" scf7180000000008|quiver _tRNA_62 undefined product 2581671:2581746 reverse
+gctgatatggctcagttggtagagcgcacccttggtaagggtgaggtccccagttcgact
+ctgggtatcagcacca
+>"tRNA_type:Gly-TCC" scf7180000000008|quiver _tRNA_61 undefined product 2581753:2581827 reverse
+gcgggcatcgtataatggctattacctcagccttccaagctgatgatgcgggttcgattc
+ccgctgcccgctcca
+>"tRNA_type:Tyr-GTA" scf7180000000008|quiver _tRNA_60 undefined product 2581945:2582029 reverse
+ggtggggttcccgagcggccaaagggagcagactgtaaatctgccgtcacagacttcgaa
+ggttcgaatccttcccccaccacca
+>"tRNA_type:Thr-TGT" scf7180000000008|quiver _tRNA_59 undefined product 2582038:2582113 reverse
+gccgacttagctcagtaggtagagcaactgacttgtaatcagtaggtcaccagttcgatt
+ccggtagtcggcacca
+>"tRNA_type:Pro-TGG" scf7180000000008|quiver _tRNA_58 undefined product 2589750:2589826 reverse
+cggcgagtagcgcagcttggtagcgcaactggtttgggaccagtgggtcggaggttcgaa
+tcctctctcgccgacca
+>"tRNA_type:SeC-TCA" scf7180000000008|quiver _tRNA_16 undefined product 2701659:2701753 forward
+ggaagatcgtcatctccggtgaggtggctggacttcaaatccagttggggacgccagcgt
+tcccgggcaggttcgactcctgtgatcttccgcca
+>"tRNA_type:Glu-TTC" scf7180000000008|quiver _tRNA_17 undefined product 2831128:2831203 forward
+gtccccttcgtctagaggcccaggacaccgccctttcacggcggtaacaggggttcgaat
+cccctaggggacgcca
+>"tRNA_type:Ile-GAT" scf7180000000008|quiver _tRNA_18 undefined product 2935557:2935633 forward
+aggcttgtagctcaggtggttagagcgcacccctgataagggtgaggtcggtggttcaag
+tccactcaggcctacca
+>"tRNA_type:Ala-TGC" scf7180000000008|quiver _tRNA_19 undefined product 2935676:2935751 forward
+ggggctatagctcagctgggagagcgcctgctttgcacgcaggaggtctgcggttcgatc
+ccgcatagctccacca
+>"tRNA_type:Asp-GTC" scf7180000000008|quiver _tRNA_20 undefined product 2939069:2939145 forward
+ggagcggtagttcagtcggttagaatacctgcctgtcacgcagggggtcgcgggttcgag
+tcccgtccgttccgcca
+>"tRNA_type:Trp-CCA" scf7180000000008|quiver _tRNA_21 undefined product 2939199:2939274 forward
+aggggcgtagctcagttggtagagcaccggtctccaaaaccgggtgtcgcgagttcgagt
+ctctccgcccctgcca
+>"tRNA_type:Arg-CCG" scf7180000000008|quiver _tRNA_22 undefined product 2972118:2972194 forward
+gcgcccgtagctcagctggatagagcgctgccctccggaggcagaggtctcaggttcgaa
+tcctgtcgggcgcgcca
+>"tRNA_type:His-GTG" scf7180000000008|quiver _tRNA_23 undefined product 2972262:2972337 forward
+gtggctatagctcagttggtagagccctggattgtgattccagttgtcgtgggttcgaat
+cccattagccacccca
+>"tRNA_type:Leu-CAG" scf7180000000008|quiver _tRNA_24 undefined product 2972360:2972445 forward
+gcgaaggtggcggaattggtagacgcgctagcttcaggtgttagtgtcctttggatgtgg
+gggttcgagtcccccccctcgcacca
+>"tRNA_type:Pro-TGG" scf7180000000008|quiver _tRNA_25 undefined product 2972491:2972567 forward
+cggcgagtagcgcagcttggtagcgcaactggtttgggaccagtgggtcggaggttcgaa
+tcctctctcgccgacca
+>"tRNA_type:Glu-TTC" scf7180000000008|quiver _tRNA_26 undefined product 3221599:3221674 forward
+gtccccttcgtctagaggcccaggacaccgccctttcacggcggtaacaggggttcgaat
+cccctaggggacgcca
+>"tRNA_type:Thr-GGT" scf7180000000008|quiver _tRNA_27 undefined product 3224960:3225035 forward
+gctgatatggctcagttggtagagcgcacccttggtaagggtgaggtccccagttcgact
+ctgggtatcagcacca
+>"tRNA_type:Leu-GAG" scf7180000000008|quiver _tRNA_28 undefined product 3328774:3328860 forward
+accgaggtggtggaattggtagacacgctaccttgaggtggtagtgccctaacgggcttg
+tgggttcgagtcccatcctcggtacca
+>"tRNA_type:fMet-CAT" scf7180000000008|quiver _tRNA_29 undefined product 3330682:3330758 forward
+cgcggggtggagcagcctggtagctcgtcgggctcataacccgaaggtcgtcggttcaaa
+tccggcccccgcaacca
+>"tRNA_type:Ile2-CAT" scf7180000000008|quiver _tRNA_57 undefined product 3417333:3417408 reverse
+ggccccttagctcagtggttagagcaggcgactcataatcgcttggtcgctggttcaagt
+ccagcaggggccacca
+>"tRNA_type:Phe-GAA" scf7180000000008|quiver _tRNA_56 undefined product 3509146:3509221 reverse
+gcccggatagctcagtcggtagagcaggggattgaaaatccccgtgtccttggttcgatt
+ccgagtccgggcacca
+>"tRNA_type:Gly-CCC" scf7180000000008|quiver _tRNA_30 undefined product 3583410:3583483 forward
+gcgggcgtagttcaatggtagaacgagagcttcccaagctctatacgagggttcgattcc
+cttcgcccgctcca
+>"tRNA_type:fMet-CAT" scf7180000000008|quiver _tRNA_55 undefined product 3641419:3641495 reverse
+cgcggggtggagcagcctggtagctcgtcgggctcataacccgaaggtcgtcggttcaaa
+tccggcccccgcaacca
+>"tRNA_type:fMet-CAT" scf7180000000008|quiver _tRNA_54 undefined product 3641540:3641616 reverse
+cgcggggtggagcagcctggtagctcgtcgggctcataacccgaaggtcgtcggttcaaa
+tccggcccccgcaacca
+>"tRNA_type:fMet-CAT" scf7180000000008|quiver _tRNA_53 undefined product 3641662:3641738 reverse
+cgcggggtggagcagcctggtagctcgtcgggctcataacccgaaggtcgtcggttcaaa
+tccggcccccgcaacca
+>"tRNA_type:Ser-GCT" scf7180000000008|quiver _tRNA_31 undefined product 3756753:3756845 forward
+ggtgaggtggccgagaggctgaaggcgctcccctgctaagggagtatgcggtcaaaagct
+gcatccggggttcgaatccccgcctcaccgcca
+>"tRNA_type:Arg-ACG" scf7180000000008|quiver _tRNA_32 undefined product 3756850:3756926 forward
+gcatccgtagctcagctggatagagtactcggctacgaaccgagcggtcggaggttcgaa
+tcctcccggatgcacca
+>"tRNA_type:Arg-ACG" scf7180000000008|quiver _tRNA_33 undefined product 3756991:3757067 forward
+gcatccgtagctcagctggatagagtactcggctacgaaccgagcggtcggaggttcgaa
+tcctcccggatgcacca
+>"tRNA_type:Arg-ACG" scf7180000000008|quiver _tRNA_34 undefined product 3757097:3757173 forward
+gcatccgtagctcagctggatagagtactcggctacgaaccgagcggtcggaggttcgaa
+tcctcccggatgcacca
+>"tRNA_type:Arg-ACG" scf7180000000008|quiver _tRNA_35 undefined product 3757334:3757410 forward
+gcatccgtagctcagctggatagagtactcggctacgaaccgagcggtcggaggttcgaa
+tcctcccggatgcacca
+>"tRNA_type:Undet-NNN" scf7180000000008|quiver _tRNA_52 undefined product 3832080:3832182 reverse
+gtgtctgtccgcagctggcgtgcgaatgtaaagacaaactaagcatgtagtaccgaggat
+gtagaaatttcggacgcgggttcaactcccgccagctccacca
+>"tRNA_type:Glu-TTC" scf7180000000008|quiver _tRNA_36 undefined product 3861032:3861107 forward
+gtccccttcgtctagaggcccaggacaccgccctttcacggcggtaacaggggttcgaat
+cccctaggggacgcca
+>"tRNA_type:Lys-TTT" scf7180000000008|quiver _tRNA_51 undefined product 4045733:4045808 reverse
+gggtcgttagctcagttggtagagcagttgacttttaatcaattggtcgcaggttcgaat
+cctgcacgacccacca
+>"tRNA_type:Val-TAC" scf7180000000008|quiver _tRNA_50 undefined product 4045813:4045888 reverse
+gggcgattagctcagttggtagagcatctcctttacacggagggggtcggcggttcgagc
+ccgtcatcgcccacca
+>"tRNA_type:Val-TAC" scf7180000000008|quiver _tRNA_49 undefined product 4045918:4045993 reverse
+gggcgattagctcagttggtagagcatctcctttacacggagggggtcggcggttcgagc
+ccgtcatcgcccacca
+>"tRNA_type:Val-TAC" scf7180000000008|quiver _tRNA_48 undefined product 4046035:4046110 reverse
+gggtgattagctcagttggtagagcatctcctttacacggagggggtcggcggttcgagc
+ccgtcatcacccacca
+>"tRNA_type:Ala-GGC" scf7180000000008|quiver _tRNA_37 undefined product 4048803:4048878 forward
+ggggctatagctcagctgggagagcgcttgcatggcatgcaagaggtcagcggttcgatc
+ccgcttagctccacca
+>"tRNA_type:Ala-GGC" scf7180000000008|quiver _tRNA_38 undefined product 4048920:4048995 forward
+ggggctatagctcagctgggagagcgcttgcatggcatgcaagaggtcagcggttcgatc
+ccgcttagctccacca
+>"tRNA_type:Arg-CCT" scf7180000000008|quiver _tRNA_47 undefined product 4083025:4083096 reverse
+gtccccttagttaaatggatataacgagcccctcctaagggctagttgcaggttcgattc
+ctgcaggggaca
+>"tRNA_type:Pro-GGG" scf7180000000008|quiver _tRNA_46 undefined product 4199948:4200024 reverse
+cggcacgtagcgcagcctggtagcgcaccgtcatggggtgtcgggggtcggaggttcaaa
+tcctctcgtgccgacca
+>"tRNA_type:Asn-GTT" scf7180000000008|quiver _tRNA_45 undefined product 4381607:4381682 reverse
+tcctctgtagttcagtcggtagaacggcggactgttaatccgtatgtcactggttcgagt
+ccagtcagaggagcca
+>"tRNA_type:Asn-GTT" scf7180000000008|quiver _tRNA_39 undefined product 4383402:4383477 forward
+tcctctgtagttcagtcggtagaacggcggactgttaatccgtatgtcactggttcgagt
+ccagtcagaggagcca
+>"tRNA_type:Asn-GTT" scf7180000000008|quiver _tRNA_44 undefined product 4398789:4398864 reverse
+tcctctgtagttcagtcggtagaacggcggactgttaatccgtatgtcactggttcgagt
+ccagtcagaggagcca
+>"tRNA_type:Asn-GTT" scf7180000000008|quiver _tRNA_43 undefined product 4407902:4407977 reverse
+tcctctgtagttcagtcggtagaacggcggactgttaatccgtatgtcactggttcgagt
+ccagtcagaggagcca
+>"tRNA_type:Gly-GCC" scf7180000000008|quiver _tRNA_40 undefined product 4475374:4475449 forward
+gcgggaatagctcagttggtagagcacgaccttgccaaggtcggggtcgcgagttcgagt
+ctcgtttcccgctcca
+>"tRNA_type:Cys-GCA" scf7180000000008|quiver _tRNA_41 undefined product 4475496:4475569 forward
+ggcgcgttagcaaagcggttatgtagcggattgcaaatccgtctagtccggttcgactcc
+ggaacgcgcctcca
+>"tRNA_type:Leu-TAA" scf7180000000008|quiver _tRNA_42 undefined product 4475581:4475667 forward
+ggccggatggtggaatcggtagacacaagggatttaaaatccctcggcgttcgcgctgtg
+tgggttcaagtcccactccggctacca

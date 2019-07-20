@@ -1,0 +1,16 @@
+/opt/lampp/htdocs/jbrowse/extlib/lib/perl5/Bio/FeatureIO.pm
+/opt/lampp/htdocs/jbrowse/extlib/lib/perl5/Bio/FeatureIO/bed.pm
+/opt/lampp/htdocs/jbrowse/extlib/lib/perl5/Bio/FeatureIO/gff.pm
+/opt/lampp/htdocs/jbrowse/extlib/lib/perl5/Bio/FeatureIO/gtf.pm
+/opt/lampp/htdocs/jbrowse/extlib/lib/perl5/Bio/FeatureIO/interpro.pm
+/opt/lampp/htdocs/jbrowse/extlib/lib/perl5/Bio/FeatureIO/ptt.pm
+/opt/lampp/htdocs/jbrowse/extlib/lib/perl5/Bio/FeatureIO/vecscreen_simple.pm
+/opt/lampp/htdocs/jbrowse/extlib/lib/perl5/Bio/SeqFeature/Annotated.pm
+/opt/lampp/htdocs/jbrowse/extlib/man/man3/Bio::FeatureIO.3pm
+/opt/lampp/htdocs/jbrowse/extlib/man/man3/Bio::FeatureIO::bed.3pm
+/opt/lampp/htdocs/jbrowse/extlib/man/man3/Bio::FeatureIO::gff.3pm
+/opt/lampp/htdocs/jbrowse/extlib/man/man3/Bio::FeatureIO::gtf.3pm
+/opt/lampp/htdocs/jbrowse/extlib/man/man3/Bio::FeatureIO::interpro.3pm
+/opt/lampp/htdocs/jbrowse/extlib/man/man3/Bio::FeatureIO::ptt.3pm
+/opt/lampp/htdocs/jbrowse/extlib/man/man3/Bio::FeatureIO::vecscreen_simple.3pm
+/opt/lampp/htdocs/jbrowse/extlib/man/man3/Bio::SeqFeature::Annotated.3pm

@@ -1,0 +1,7 @@
+#
+# Alias file created 01/11/2019 16:41:43
+#
+TITLE Whole Genome Database
+DBLIST "../db/Enterobacter_spFASTA" "../db/Enterococcus_spFASTA" "" 
+NSEQ 3
+LENGTH 7419065
