@@ -1,0 +1,7 @@
+#
+# Alias file created 01/11/2019 16:54:41
+#
+TITLE Nuclueotide Seqeunces Database
+DBLIST "../db/Enterobacter_spFFN" "../db/Enterococcus_spFFN" "" 
+NSEQ 6886
+LENGTH 6574083

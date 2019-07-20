@@ -1,0 +1,7 @@
+#
+# Alias file created 01/11/2019 16:51:24
+#
+TITLE Amino Acid Seqeunces Database
+DBLIST "../db/Enterobacter_spFAA" "../db/Enterococcus_spFAA" "" 
+NSEQ 6886
+LENGTH 2191361

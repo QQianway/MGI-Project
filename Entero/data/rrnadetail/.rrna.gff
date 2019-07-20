@@ -1,0 +1,19 @@
+##gff-version2
+##source-versionRNAmmer-1.2
+##date2018-09-12
+##TypeDNA
+#seqnamesourcefeaturestartendscore+/-frameattribute
+#---------------------------------------------------------------------------------------------------------
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	2243458	2246368	3516.6	+	.	23s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	1358795	1361706	3516.2	-	.	23s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	1975157	1978067	3516.6	-	.	23s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	2624049	2626960	3516.2	+	.	23s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	2246467	2246581	100.5	+	.	5s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	1358582	1358696	100.5	-	.	5s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	1974944	1975058	100.5	-	.	5s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	2627059	2627173	100.5	+	.	5s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	2241676	2243224	2041.2	+	.	16s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	1362042	1363590	2041.2	-	.	16s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	1978301	1979849	2041.2	-	.	16s_rRNA	
+scf7180000000004|quiver	RNAmmer-1.2	rRNA	2622165	2623713	2041.2	+	.	16s_rRNA	
+#---------------------------------------------------------------------------------------------------------

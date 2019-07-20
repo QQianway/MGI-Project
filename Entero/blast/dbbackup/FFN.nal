@@ -1,0 +1,7 @@
+#
+# Alias file created 10/19/2018 09:41:34
+#
+TITLE Nucleotide Database
+DBLIST "../db/Enterococcus_spFFN" "../db/Enterobacter_spFFN" 
+NSEQ 6886
+LENGTH 6574083
